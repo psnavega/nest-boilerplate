@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Boilerplate Nest.js with PostgreSQL and Prisma</title>
-</head>
 <body>
   <h1>Boilerplate Nest.js with PostgreSQL and Prisma</h1>
   <h2>Features</h2>
